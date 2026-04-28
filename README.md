@@ -1,1 +1,1 @@
-![ss.png]
+![ss](ss.png)
